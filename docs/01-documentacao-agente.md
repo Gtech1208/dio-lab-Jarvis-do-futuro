@@ -5,17 +5,17 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-[Sua descrição aqui]
+flxuo de caixa, entrada: serviço prestado, e saida: gasto com materiais e fretes.
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
 
-[Sua descrição aqui]
+O agente explica sobre o lucro de forma simples, com dados do proprio cliente de forma pratica, dizendo se foi uma boa operação.
 
 ### Público-Alvo
 > Quem vai usar esse agente?
 
-[Sua descrição aqui]
+Empresarios, Freelancer, Autonomos e Pessoas que desejam fazer calculos sobre serviço prestados.
 
 ---
 
