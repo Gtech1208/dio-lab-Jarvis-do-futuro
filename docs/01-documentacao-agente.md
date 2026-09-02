@@ -37,9 +37,9 @@ Jarvis
 Formal e Tecnico
 
 ### Exemplos de Linguagem
-- Saudação: [ex: "Olá! Como posso ajudar com suas finanças hoje?"]
-- Confirmação: [ex: "Entendi! Deixa eu verificar isso para você."]
-- Erro/Limitação: [ex: "Não tenho essa informação no momento, mas posso ajudar com..."]
+- Saudação: "Olá! Como posso ajudar com seu fluxo de caixa hoje"
+- Confirmação: "Entendi! Deixa eu verificar isso para você."
+- Erro/Limitação: "Não tenho essa informação no momento..."
 
 ---
 
@@ -49,7 +49,7 @@ Formal e Tecnico
 
 ```mermaid
 flowchart TD
-    A[Cliente] -->|Mensagem| B[Interface]
+    A[Usuário] --> B["Streamlit (interface Visual)"]
     B --> C[LLM]
     C --> D[Base de Conhecimento]
     D --> C
